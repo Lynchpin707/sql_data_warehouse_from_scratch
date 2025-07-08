@@ -1,0 +1,11 @@
+copy bronze.crm_cust_info from '/Users/mac/Desktop/data_warehouse_from_scratch/datasets/source_crm/cust_info.csv' delimiter ',' CSV header;
+
+copy bronze.crm_prd_info from '/Users/mac/Desktop/data_warehouse_from_scratch/datasets/source_crm/prd_info.csv' delimiter ',' CSV header;
+
+copy bronze.crm_sales_details from '/Users/mac/Desktop/data_warehouse_from_scratch/datasets/source_crm/sales_details.csv' delimiter ',' CSV header;
+
+copy bronze.erp_cust_az12 from '/Users/mac/Desktop/data_warehouse_from_scratch/datasets/source_erp/cust_az12.csv' delimiter ',' CSV header;
+
+copy bronze.erp_loc_a101 from '/Users/mac/Desktop/data_warehouse_from_scratch/datasets/source_erp/loc_a101.csv' delimiter ',' CSV header;
+
+copy bronze.erp_px_cat_g1v2 from '/Users/mac/Desktop/data_warehouse_from_scratch/datasets/source_erp/px_cat_g1v2.csv' delimiter ',' CSV header;
