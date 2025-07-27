@@ -5,7 +5,7 @@ This project showcases how to build a modern **retail sales data warehouse** usi
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [Project Overview](#project-overview)  
 - [Tech Stack](#tech-stack)  
@@ -109,7 +109,7 @@ Some of the business questions answered by SQL queries:
 
 ## Credits
 
-- **Inspired by**: [@DatawithBaraa’s Data Warehouse Tutorial](https://www.youtube.com/watch?v=9GVqKuTVANE&list=PLw82ykBiRKZfoW21VNpOz18qV4njiRrwy&index=2) 🙏 
+- **Inspired by**: [@DatawithBaraa’s Data Warehouse Tutorial](https://www.youtube.com/watch?v=9GVqKuTVANE&list=PLw82ykBiRKZfoW21VNpOz18qV4njiRrwy&index=2) 
 - **Certification**: [DataCamp Associate Data Engineer](https://www.datacamp.com/certification/associate-data-engineer)  
 - **Developed by**: [Lina Raoui](https://www.linkedin.com/in/lina-raoui-2a5747191)
 
