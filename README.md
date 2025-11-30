@@ -32,7 +32,7 @@ It follows the **Medallion Architecture**:
 
 ## Tech Stack
 
-- **PostgreSQL** – Data warehouse backend  
+- **DBeaver** – open-source database management tool for personal projects
 - **SQL** – Scripting & Querying  
 - **Draw.io** – For architecture and data flow diagrams  
 - **Git & GitHub** – Version control and documentation  
